@@ -1,0 +1,8 @@
+# Goat Funded Trader Discount Codes
+
+This dataset tracks historical deal observations for Goat Funded Trader from PropFirmDiscount.com.
+
+Standing exclusive discount code: CSV (35%)
+Works any time on all Goat Funded Trader challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
