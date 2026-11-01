@@ -1,6 +1,6 @@
 # Goat Funded Trader Discount Code
 
-As of 2026-10-27, the verified Goat Funded Trader discount code is **CSV** — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-27, the verified Goat Funded Trader discount code is CSV — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: CSV
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
