@@ -19,26 +19,26 @@ tags:
 
 # Goat Funded Trader Discount Code
 
-As of 2026-10-27, the verified Goat Funded Trader discount code is CSV — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-02, the verified Goat Funded Trader discount code is CSV — up to 35% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: CSV
 - Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-27
-- Trustpilot: 2.1/5 (4336 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 2.1/5 (4342 reviews)
 - Activate: https://propfirmdiscount.com/go/goatfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/goat-funded-trader/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Goat Funded Trader deal: 8% Off Kalshi-Based Prediction Evaluations
+## Current Goat Funded Trader deal: 40% off plus a second account free
 
-- Published: 2026-10-27
+- Published: 2026-11-02
 - Offer ends: Limited time
-- Offer: 8% off
-- Scope: Prediction Markets, Kalshi-Based Evaluations, Politics Markets, Sports Markets, Economy Markets, Funded Capital Evaluations
+- Offer: 40% off
+- Scope: Challenge Accounts, Excluding Instant Daily
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/
+- Deal page: https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/
 
 ## Goat Funded Trader discount code FAQ
 
@@ -52,18 +52,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Goat Funded Trader deal?**
 
-**8% Off Kalshi-Based Prediction Evaluations** — published 2026-10-27. Offer ends: Limited time. The offer is 8% off.
+**40% off plus a second account free** — published 2026-11-02. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **50**
+Total deals tracked: **51**
 
-### 2026 (30 deals)
+### 2026 (31 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | 40% off plus a second account free | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) |
 | 2026-10-27 | 8% Off Kalshi-Based Prediction Evaluations | 8% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) |
 | 2026-10-26 | 50% Off Challenge Entry Costs This Halloween | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) |
 | 2026-10-22 | 50% Off $100K Account for $99 - London Expo | 50% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-50-off-100k-account-99/) |

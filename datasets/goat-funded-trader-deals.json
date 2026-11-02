@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13111,
+    "title": "40% off plus a second account free",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "Challenge Accounts, Excluding Instant Daily"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/",
+    "prop_firm": "Goat Funded Trader",
+    "prop_firm_slug": "goat-funded-trader",
+    "standing_code": "CSV",
+    "standing_discount": "35%",
+    "activation_link": "https://propfirmdiscount.com/go/goatfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+  },
+  {
     "deal_id": 13050,
     "title": "8% Off Kalshi-Based Prediction Evaluations",
     "offer_type": "coupon",
