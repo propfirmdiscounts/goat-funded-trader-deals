@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: goat-funded-trader-discount-codes
+  HF_NAMESPACE: goatfundedtrader
+  HF_REPO_NAME: goat-funded-trader-deals
   FIRM_SLUG: goat-funded-trader
   DEALSTORE_ID: 66
   FIRM_NAME: Goat Funded Trader
