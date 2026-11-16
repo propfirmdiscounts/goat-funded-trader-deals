@@ -1,17 +1,17 @@
 # Goat Funded Trader - Discount Codes & Deal History
 
-As of November 2026, the verified Goat Funded Trader discount code is CSV — 35% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Goat Funded Trader discount code is CSV — 35% OFF, which can be applied on the checkout page anytime. The newest is "40% off plus a second account free".
 
 - Code: CSV
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 2.1/5 (4357 reviews)
-- GitHub repository: [https://github.com/propfirmdiscounts/goat-funded-trader-deals](https://github.com/propfirmdiscounts/goat-funded-trader-deals)
-- Activate: [https://propfirmdiscount.com/go/goatfunded](https://propfirmdiscount.com/go/goatfunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/goat-funded-trader/](https://propfirmdiscount.com/prop-firm/goat-funded-trader/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Goat Funded Trader Deals Repository](https://github.com/propfirmdiscounts/goat-funded-trader-deals)
+- Activate: [Activate Goat Funded Trader Discount Code](https://propfirmdiscount.com/go/goatfunded)
+- Firm page: [Goat Funded Trader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/goat-funded-trader/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Goat Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Goat Funded Trader deal: 40% off plus a second account free
 
@@ -20,7 +20,7 @@ As of November 2026, the verified Goat Funded Trader discount code is CSV — 35
 - Offer: 40% off
 - Scope: Challenge Accounts, Excluding Instant Daily
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/)
+- Deal page: [Goat Funded Trader Deal Page](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/)
 
 ## Goat Funded Trader discount code FAQ
 
@@ -109,9 +109,9 @@ Total deals tracked: **51**
 
 This repository mirrors every deal **Goat Funded Trader** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/goat-funded-trader/](https://propfirmdiscount.com/prop-firm/goat-funded-trader/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Goat Funded Trader Profile](https://propfirmdiscount.com/prop-firm/goat-funded-trader/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/goat-funded-trader-deals.json`
 
@@ -154,4 +154,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
