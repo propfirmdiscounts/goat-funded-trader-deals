@@ -4,5 +4,3 @@ url: "https://propfirmdiscounts.github.io"
 baseurl: "/goat-funded-trader-deals"
 plugins:
   - jekyll-seo-tag
-titles_from_headings:
-  enabled: false
