@@ -1,4 +1,4 @@
-# Goat Funded Trader Discount Codes
+# Goat Funded Trader Discount Code & Deals History
 
 This dataset tracks historical deal observations for Goat Funded Trader from PropFirmDiscount.com.
 
