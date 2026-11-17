@@ -455,26 +455,24 @@ jobs:
           try:
               escaped_desc = answer.replace('"', '\\"')
               safe_title = site_title.replace('"', '\\"')
-              # GitHub Pages turns jekyll-titles-from-headings on by default, and
-              # it copies the README's first H1 into page.title. The layout and
-              # the seo tag both prefer page.title over site.title, so leaving it
-              # on means the H1 silently overrides the page title set here — which
-              # went unnoticed only while the two strings happened to be equal.
-              disable_h1_titles = 'titles_from_headings:\n  enabled: false\n'
+              # The layout's <title> reads site.title, so the H1 no longer has
+              # to be suppressed: page.title still comes from the README H1 via
+              # jekyll-titles-from-headings, which is what the breadcrumb and
+              # the structured data are meant to mirror. An earlier revision
+              # turned that plugin off to make <title> win; drop the leftover
+              # key so a repo that ran it returns to the same shape.
               if os.path.exists('_config.yml'):
                   cfg = open('_config.yml', encoding='utf-8').read()
+                  cfg = re.sub(r'^titles_from_headings:\n(?:[ \t]+.*\n)*', '', cfg, flags=re.M)
                   cfg = re.sub(r'^title:[^\n]+', lambda _: f'title: "{safe_title}"', cfg, flags=re.M)
                   cfg_lines = cfg.splitlines()
                   for i, l in enumerate(cfg_lines):
                       if l.startswith('description:'):
                           cfg_lines[i] = f'description: "{escaped_desc}"'
-                  cfg = '\n'.join(cfg_lines) + '\n'
-                  if 'titles_from_headings:' not in cfg:
-                      cfg += disable_h1_titles
-                  open('_config.yml', 'w', encoding='utf-8').write(cfg)
+                  open('_config.yml', 'w', encoding='utf-8').write('\n'.join(cfg_lines) + '\n')
               else:
                   open('_config.yml', 'w', encoding='utf-8').write(
-                      f'title: "{safe_title}"\ndescription: "{escaped_desc}"\nurl: "https://propfirmdiscounts.github.io"\nbaseurl: "/{slug}-deals"\nplugins:\n  - jekyll-seo-tag\n' + disable_h1_titles
+                      f'title: "{safe_title}"\ndescription: "{escaped_desc}"\nurl: "https://propfirmdiscounts.github.io"\nbaseurl: "/{slug}-deals"\nplugins:\n  - jekyll-seo-tag\n'
                   )
           except Exception:
               pass
@@ -564,7 +562,7 @@ jobs:
                   <meta charset="UTF-8">
                   <meta http-equiv="X-UA-Compatible" content="IE=edge">
                   <meta name="viewport" content="width=device-width, initial-scale=1">
-                  <title>{{{{ page.title | default: site.title }}}}</title>
+                  <title>{{{{ site.title }}}}</title>
                   <!-- Google tag (gtag.js) -->
                   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JRN9LT8NNF"></script>
                   <script>
