@@ -6,7 +6,7 @@ As of November 2026, the verified Goat Funded Trader discount code is CSV — 35
 - Discount: 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
-- Trustpilot: [2/5 (4365 reviews)](https://www.trustpilot.com/review/goatfundedtrader.com)
+- Trustpilot: [2/5 (4369 reviews)](https://www.trustpilot.com/review/goatfundedtrader.com)
 - GitHub repository: [Goat Funded Trader Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/goat-funded-trader-deals)
 - Activate: [Activate Goat Funded Trader Discount Code](https://propfirmdiscount.com/go/goatfunded)
 - Firm page: [Goat Funded Trader Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/goat-funded-trader/)
