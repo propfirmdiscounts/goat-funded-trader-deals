@@ -48,7 +48,7 @@ Total deals tracked: **53**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-23 | Goat Funded Trader: 55% Off Selected Plans to Nov 29 | 55% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) |
-| 2026-11-16 | Goat Funded Trader: 50% Off Selected Plans, 7 Days | 50% off | 2026-11-23 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) |
+| 2026-11-16 | Goat Funded Trader: 50% Off Selected Plans, 7 Days | 50% off | 2026-11-23 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) |
 | 2026-11-02 | Goat Funded Trader: 40% off plus a second account free | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) |
 | 2026-10-27 | Goat Funded Trader: 8% Off Kalshi-Based Prediction Evaluations | 8% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-prediction-markets-8-off-launch/) |
 | 2026-10-26 | Goat Funded Trader: 50% Off Challenge Entry Costs This Halloween | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/) |
