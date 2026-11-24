@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13461,
+    "title": "55% Off Selected Plans to Nov 29",
+    "offer_type": "coupon",
+    "discount_value": "55%",
+    "scope": [
+      "Selected Plans"
+    ],
+    "date_published": "2026-11-23",
+    "date_exp": "2026-11-29",
+    "event": "Black Friday",
+    "last_verified": "2026-11-23",
+    "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/",
+    "prop_firm": "Goat Funded Trader",
+    "prop_firm_slug": "goat-funded-trader",
+    "standing_code": "CSV",
+    "standing_discount": "35%",
+    "activation_link": "https://propfirmdiscount.com/go/goatfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+  },
+  {
     "deal_id": 13248,
     "title": "50% Off Selected Plans, 7 Days",
     "offer_type": "coupon",
