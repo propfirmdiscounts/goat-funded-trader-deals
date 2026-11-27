@@ -1,11 +1,11 @@
 # Goat Funded Trader Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Goat Funded Trader discount code is CSV — 55% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Selected Plans to Nov 29 (code CSV)".
+As of November 2026, the verified Goat Funded Trader discount code is CSV — 45% OFF, which can be applied on the checkout page anytime. The newest is "45% Off Every Account At Checkout (code CSV)".
 
 - Code: CSV
-- Discount: 55% off (what the code takes off the firm's newest deal; it applies to every Goat Funded Trader deal, whatever form that deal is stated in)
+- Discount: 45% off (what the code takes off the firm's newest deal; it applies to every Goat Funded Trader deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-23
+- Last deal published: 2026-11-27
 - Trustpilot: [2/5 (4385 reviews)](https://www.trustpilot.com/review/goatfundedtrader.com)
 - GitHub repository: [Goat Funded Trader Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/goat-funded-trader-deals)
 - Activate: [Activate Goat Funded Trader Discount Code](https://propfirmdiscount.com/go/goatfunded)
@@ -13,21 +13,20 @@ As of November 2026, the verified Goat Funded Trader discount code is CSV — 55
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Goat Funded Trader API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Goat Funded Trader deal: 55% Off Selected Plans to Nov 29 (code CSV)
+## Latest Goat Funded Trader deal: 45% Off Every Account At Checkout (code CSV)
 
-- Published: 2026-11-23
-- Offer ends: 2026-11-29
-- Offer: 55% off
-- Event: Black Friday
-- Scope: Selected Plans
+- Published: 2026-11-27
+- Offer ends: Limited time
+- Offer: 45% off
+- Scope: All Accounts - No Account Restriction Stated In The Source
 - Code: CSV
-- Deal page: [Goat Funded Trader Deal Page](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/)
+- Deal page: [Goat Funded Trader Deal Page](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-off-all-accounts/)
 
 ## Goat Funded Trader Discount Code & Deals History FAQ
 
 **What is the Goat Funded Trader discount code?**
 
-CSV. It is verified by PropFirmDiscount.com and takes 55% off Goat Funded Trader challenges and accounts.
+CSV. It is verified by PropFirmDiscount.com and takes 45% off Goat Funded Trader challenges and accounts.
 
 **Does the Goat Funded Trader discount code expire?**
 
@@ -35,18 +34,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Goat Funded Trader deal?**
 
-**55% Off Selected Plans to Nov 29 (code CSV)** — published 2026-11-23. Offer ends: 2026-11-29. The offer is 55% off.
+**45% Off Every Account At Checkout (code CSV)** — published 2026-11-27. Offer ends: Limited time. The offer is 45% off.
 
 ---
 
 ## Goat Funded Trader Deals History
 
-Total deals tracked: **53**
+Total deals tracked: **54**
 
-### 2026 (33 deals)
+### 2026 (34 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-27 | Goat Funded Trader: 45% Off Every Account At Checkout (code CSV) | 45% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-45-off-all-accounts/) |
 | 2026-11-23 | Goat Funded Trader: 55% Off Selected Plans to Nov 29 (code CSV) | 55% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-black-friday-55-off/) |
 | 2026-11-16 | Goat Funded Trader: 50% Off Selected Plans, 7 Days (code CSV) | 50% off | 2026-11-23 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-early-black-friday-50-off/) |
 | 2026-11-02 | Goat Funded Trader: 40% off plus a second account free (code CSV) | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-40-off-buy-one-get-one-free/) |
