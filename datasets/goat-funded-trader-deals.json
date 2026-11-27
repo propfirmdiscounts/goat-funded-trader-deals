@@ -1,7 +1,7 @@
 [
   {
     "deal_id": 13461,
-    "title": "55% Off Selected Plans to Nov 29",
+    "title": "55% Off Selected Plans to Nov 29 (code CSV)",
     "offer_type": "coupon",
     "discount_value": "55%",
     "scope": [
@@ -15,13 +15,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 13248,
-    "title": "50% Off Selected Plans, 7 Days",
+    "title": "50% Off Selected Plans, 7 Days (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -35,13 +37,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 13111,
-    "title": "40% off plus a second account free",
+    "title": "40% off plus a second account free (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -55,13 +59,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 13050,
-    "title": "8% Off Kalshi-Based Prediction Evaluations",
+    "title": "8% Off Kalshi-Based Prediction Evaluations (code CSV)",
     "offer_type": "coupon",
     "discount_value": "8%",
     "scope": [
@@ -75,33 +81,37 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 13039,
-    "title": "50% Off Challenge Entry Costs This Halloween",
+    "title": "50% Off Challenge Entry Costs This Halloween (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
       "Account Purchases, Challenge Accounts"
     ],
     "date_published": "2026-10-26",
-    "date_exp": "Limited time",
+    "date_exp": "Ended",
     "event": "Halloween",
     "last_verified": "2026-10-26",
     "post_url": "https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-halloween-50-off-challenge-accounts/",
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 13011,
-    "title": "50% Off $100K Account for $99 - London Expo",
+    "title": "50% Off $100K Account for $99 - London Expo (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -115,13 +125,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12731,
-    "title": "50% Off All Evaluation Accounts",
+    "title": "50% Off All Evaluation Accounts (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -135,13 +147,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12574,
-    "title": "45% Discount on Challenge Pricing for Instant and 2-Step Plans",
+    "title": "45% Discount on Challenge Pricing for Instant and 2-Step Plans (code CSV)",
     "offer_type": "coupon",
     "discount_value": "45%",
     "scope": [
@@ -155,13 +169,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12562,
-    "title": "50% Off Trading Challenges Across Labor Day Sale",
+    "title": "50% Off Trading Challenges Across Labor Day Sale (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -175,13 +191,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12532,
-    "title": "45% Off All Plans Reduces Account Purchase Cost",
+    "title": "45% Off All Plans Reduces Account Purchase Cost (code CSV)",
     "offer_type": "coupon",
     "discount_value": "45%",
     "scope": [
@@ -195,13 +213,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12520,
-    "title": "50% Off All Accounts - Initial Purchase Price Guide",
+    "title": "50% Off All Accounts - Initial Purchase Price Guide (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -215,13 +235,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12463,
-    "title": "50% Off All Trading Challenges Evaluation",
+    "title": "50% Off All Trading Challenges Evaluation (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -235,13 +257,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12460,
-    "title": "50% Off Evaluation Accounts: Purchase Price Reduction Breakdown",
+    "title": "50% Off Evaluation Accounts: Purchase Price Reduction Breakdown (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -255,13 +279,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12459,
-    "title": "50% Off Evaluation Challenges: Entry Fee Reduction Overview",
+    "title": "50% Off Evaluation Challenges: Entry Fee Reduction Overview (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -275,13 +301,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12417,
-    "title": "45% Off Trading Challenges: Lower Entry Cost with Unchanged Rules",
+    "title": "45% Off Trading Challenges: Lower Entry Cost with Unchanged Rules (code CSV)",
     "offer_type": "coupon",
     "discount_value": "45%",
     "scope": [
@@ -295,13 +323,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12458,
-    "title": "40% Off Evaluation Accounts up to $400K Purchase Cost Breakdown",
+    "title": "40% Off Evaluation Accounts up to $400K Purchase Cost Breakdown (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -315,13 +345,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12432,
-    "title": "50% Off Trading Challenges - Upfront Fee Reduction",
+    "title": "50% Off Trading Challenges - Upfront Fee Reduction (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -335,13 +367,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12431,
-    "title": "50% Off Trading Challenges - Lower Challenge Pricing",
+    "title": "50% Off Trading Challenges - Lower Challenge Pricing (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -355,13 +389,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12414,
-    "title": "50% Savings on First Purchase Evaluation Account Pricing",
+    "title": "50% Savings on First Purchase Evaluation Account Pricing (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -375,13 +411,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12328,
-    "title": "50% Off Upfront Fee World Cup Trading Challenge Deal",
+    "title": "50% Off Upfront Fee World Cup Trading Challenge Deal (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -395,13 +433,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12274,
-    "title": "50% Off All Challenge Pricing",
+    "title": "50% Off All Challenge Pricing (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -415,13 +455,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12251,
-    "title": "50% Discount Cuts Account Purchase Cost on All Evaluations",
+    "title": "50% Discount Cuts Account Purchase Cost on All Evaluations (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -435,13 +477,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12072,
-    "title": "$1 Challenge Pricing For $1,000 Instant Funded Account Model",
+    "title": "$1 Challenge Pricing For $1,000 Instant Funded Account Model (code CSV)",
     "offer_type": "deal",
     "discount_value": "Only $1",
     "scope": [
@@ -455,13 +499,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 12012,
-    "title": "40% Off Trading Challenges (5K for $17, 100K for $274)",
+    "title": "40% Off Trading Challenges (5K for $17, 100K for $274) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -475,13 +521,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11956,
-    "title": "50% Off Challenge Pricing and BOGO Account for 5 Days",
+    "title": "50% Off Challenge Pricing and BOGO Account for 5 Days (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -495,13 +543,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11812,
-    "title": "40% Off and BOGO Evaluation Challenge Pricing",
+    "title": "40% Off and BOGO Evaluation Challenge Pricing (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -515,13 +565,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11635,
-    "title": "40% Off All Evaluation Accounts Purchase Price Discount",
+    "title": "40% Off All Evaluation Accounts Purchase Price Discount (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -535,13 +587,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11550,
-    "title": "Easter Promotion: 50% Off All Evaluation Accounts",
+    "title": "Easter Promotion: 50% Off All Evaluation Accounts (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -555,13 +609,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11350,
-    "title": "50% Off All Evaluation Accounts for Women's Day",
+    "title": "50% Off All Evaluation Accounts for Women's Day (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -575,13 +631,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11188,
-    "title": "35% Discount and 300% Fee Refund on 4th Payout",
+    "title": "35% Discount and 300% Fee Refund on 4th Payout (code CSV)",
     "offer_type": "coupon",
     "discount_value": "35%",
     "scope": [
@@ -595,13 +653,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11162,
-    "title": "Valentine's Day Offer: $5K Evaluation Account for $10",
+    "title": "Valentine's Day Offer: $5K Evaluation Account for $10 (code CSV)",
     "offer_type": "coupon",
     "discount_value": "Only $10",
     "scope": [
@@ -615,13 +675,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 11126,
-    "title": "Valentine Promotion: 40% Discount on Trading Challenges",
+    "title": "Valentine Promotion: 40% Discount on Trading Challenges (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -635,13 +697,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10740,
-    "title": "$5 Start Offer: Pay Later Evaluation Model",
+    "title": "$5 Start Offer: Pay Later Evaluation Model (code CSV)",
     "offer_type": "deal",
     "discount_value": "Only $5",
     "scope": [
@@ -655,13 +719,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10526,
-    "title": "New Year Offer: 40% Off All Plans",
+    "title": "New Year Offer: 40% Off All Plans (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -675,13 +741,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10462,
-    "title": "Christmas Offer: 50% OFF Sitewide Entry Fees",
+    "title": "Christmas Offer: 50% OFF Sitewide Entry Fees (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -695,13 +763,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10330,
-    "title": "Promotion: 35% OFF Trading Challenges",
+    "title": "Promotion: 35% OFF Trading Challenges (code CSV)",
     "offer_type": "coupon",
     "discount_value": "35%",
     "scope": [
@@ -715,13 +785,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10313,
-    "title": "Special Offer: 32.5% OFF Challenges",
+    "title": "Special Offer: 32.5% OFF Challenges (code CSV)",
     "offer_type": "coupon",
     "discount_value": "32%",
     "scope": [
@@ -735,13 +807,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10308,
-    "title": "Promo: 30% OFF + 100% Fee Refund",
+    "title": "Promo: 30% OFF + 100% Fee Refund (code CSV)",
     "offer_type": "coupon",
     "discount_value": "30%",
     "scope": [
@@ -755,13 +829,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10227,
-    "title": "Christmas Offer: 35% OFF + BOGO (Same Size)",
+    "title": "Christmas Offer: 35% OFF + BOGO (Same Size) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "35%",
     "scope": [
@@ -775,13 +851,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 10061,
-    "title": "Cyber Wave: 40% OFF All Plans (Ends Dec 7)",
+    "title": "Cyber Wave: 40% OFF All Plans (Ends Dec 7) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -795,13 +873,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9902,
-    "title": "Black Friday Mega Sale: 50% OFF All Plans",
+    "title": "Black Friday Mega Sale: 50% OFF All Plans (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -815,13 +895,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9764,
-    "title": "Black Friday 2025: 40% Off + 90% Profit Split",
+    "title": "Black Friday 2025: 40% Off + 90% Profit Split (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -835,13 +917,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9643,
-    "title": "Veterans Day — 35% OFF + 350% Refund, 65% OFF on $5K (Limited Time)",
+    "title": "Veterans Day — 35% OFF + 350% Refund, 65% OFF on $5K (Limited Time) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "65%",
     "scope": [
@@ -855,13 +939,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9494,
-    "title": "$1 for $1,000 Instant Funded Account — No Challenge, 100% Profit Split",
+    "title": "$1 for $1,000 Instant Funded Account — No Challenge, 100% Profit Split (code CSV)",
     "offer_type": "deal",
     "discount_value": "Only $1",
     "scope": [
@@ -875,13 +961,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9399,
-    "title": "Halloween: 40% OFF All Challenges + Bonus Account on First Payout",
+    "title": "Halloween: 40% OFF All Challenges + Bonus Account on First Payout (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -895,13 +983,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9343,
-    "title": "Diwali Festival of Lights: 50% OFF Sitewide (72 Hours Only)",
+    "title": "Diwali Festival of Lights: 50% OFF Sitewide (72 Hours Only) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
@@ -915,13 +1005,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9308,
-    "title": "30% OFF on All Challenges",
+    "title": "30% OFF on All Challenges (code CSV)",
     "offer_type": "coupon",
     "discount_value": "30%",
     "scope": [
@@ -935,13 +1027,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9240,
-    "title": "25% OFF Your Challenge",
+    "title": "25% OFF Your Challenge (code CSV)",
     "offer_type": "coupon",
     "discount_value": "25%",
     "scope": [
@@ -955,13 +1049,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 9204,
-    "title": "30% OFF All Plans + BOGO (Buy 1 Get 1 Free)",
+    "title": "30% OFF All Plans + BOGO (Buy 1 Get 1 Free) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "30%",
     "scope": [
@@ -975,13 +1071,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 7842,
-    "title": "Up to 65% OFF (5K & 8K) or 35% OFF Other Plans",
+    "title": "Up to 65% OFF (5K & 8K) or 35% OFF Other Plans (code CSV)",
     "offer_type": "coupon",
     "discount_value": "65%",
     "scope": [
@@ -995,13 +1093,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 6910,
-    "title": "40% OFF All Plans + 100% Profit Split",
+    "title": "40% OFF All Plans + 100% Profit Split (code CSV)",
     "offer_type": "coupon",
     "discount_value": "40%",
     "scope": [
@@ -1015,13 +1115,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 6647,
-    "title": "-27.5% OFF Challenge",
+    "title": "-27.5% OFF Challenge (code CSV)",
     "offer_type": "coupon",
     "discount_value": "27.5%",
     "scope": [
@@ -1035,13 +1137,15 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   },
   {
     "deal_id": 6626,
-    "title": "Buy 1 Get 1 Free + 30% OFF (Limited Time)",
+    "title": "Buy 1 Get 1 Free + 30% OFF (Limited Time) (code CSV)",
     "offer_type": "coupon",
     "discount_value": "30%",
     "scope": [
@@ -1055,8 +1159,10 @@
     "prop_firm": "Goat Funded Trader",
     "prop_firm_slug": "goat-funded-trader",
     "standing_code": "CSV",
-    "standing_discount": "35%",
+    "standing_discount": "55%",
     "activation_link": "https://propfirmdiscount.com/go/goatfunded",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/goat-funded-trader/",
+    "code": "CSV",
+    "code_state": "standing"
   }
 ]
